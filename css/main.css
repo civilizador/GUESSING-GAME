@@ -1,0 +1,92 @@
+.hint {
+  border: 2px solid gray;
+  width: 70%;
+  height: 264px;
+  opacity: 0.8;
+  background-color: ivory;
+  margin-left: 3%;
+  margin-top: 22px;
+  font-size: 3em;
+  border-radius: 15px;
+  float: left; }
+
+#scoreBoard {
+  float: left;
+  margin-left: 5%;
+  width: 170px;
+  height: auto; }
+
+#score {
+  width: 150px;
+  height: 100px;
+  background-color: white;
+  text-align: center;
+  margin-top: 15px;
+  border-radius: 15px;
+  opacity: 0.8;
+  font-size: 5em;
+  transition: color 0.5s linear; }
+
+#letterWide {
+  width: 150px;
+  height: 100px;
+  background-color: yellow;
+  text-align: center;
+  margin-left: 3px;
+  border-radius: 15px;
+  opacity: 0.8;
+  font-size: 5em;
+  margin-top: 0;
+  padding: 0; }
+
+#restartButton {
+  width: 150px;
+  height: 100px;
+  background-color: white;
+  text-align: center;
+  border-radius: 15px;
+  opacity: 0.8;
+  font-size: 2em; }
+
+#word {
+  width: 75%;
+  height: 100px;
+  margin: 0 auto;
+  margin-top: 100px;
+  margin-left: 14%;
+  color: white;
+  font-size: 4em; }
+
+.boxClass {
+  border: 2px solid black;
+  width: 10%;
+  height: 90%;
+  float: left;
+  margin-top: 0  auto;
+  transition: color 0.5s linear;
+  background-color: white;
+  text-align: center;
+  margin-left: 3px;
+  border-radius: 15px;
+  opacity: 0.5; }
+
+#start {
+  margin-left: 15px; }
+
+.alphabet {
+  border: 2px solid blue;
+  width: 570px;
+  height: 300px; }
+
+.letter {
+  border: 2px solid blue;
+  width: 10%;
+  height: 15%;
+  float: left;
+  font-size: 2em;
+  text-align: center; }
+
+body {
+  background-image: url(https://images.unsplash.com/photo-1504542982118-59308b40fe0c?ixlib=rb-0.3.5&s=e226e619bcdd98df7efed3a44ce28972&auto=format&fit=crop&w=1500&q=80); }
+
+/*# sourceMappingURL=main.css.map */

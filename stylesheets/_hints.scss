@@ -1,0 +1,57 @@
+.hint {border: 2px solid gray;
+          width: 70%;
+          height: 264px;
+          opacity:0.8;
+          background-color: ivory;
+          margin-left: 3%;
+          margin-top: 22px;
+          font-size: 3em;
+          border-radius: 15px;
+           float: left;
+}
+
+#scoreBoard {
+ float: left;
+ margin-left: 5%;
+ 
+ width: 170px;
+ height: auto;
+ 
+}
+
+#score {  width: 150px;
+          height: 100px;
+          background-color: white;
+          text-align: center;
+          margin-top: 15px;
+          border-radius: 15px;
+          opacity: 0.8;
+          font-size: 5em;
+          transition: color 0.5s linear;
+           
+}
+#letterWide {
+          width: 150px;
+          height: 100px;
+          background-color: yellow;
+          text-align: center;
+          margin-left: 3px;
+          border-radius: 15px;
+          opacity: 0.8;
+          font-size: 5em;
+          margin-top: 0;
+          padding: 0;
+         
+ }  
+ 
+#restartButton {
+          width: 150px;
+          height: 100px;
+          background-color: white;
+          text-align: center;
+          border-radius: 15px;
+          opacity: 0.8;
+          font-size: 2em;
+           
+}
+
